@@ -1,6 +1,6 @@
 # doctor_consultation_app
 
-A Flutter application to display doctor profiles, consultation fees, ratings, specializations, and allow booking appointments. The app is responsive and works on mobile, web, and desktop platforms.
+A Flutter application to display doctor profiles, consultation fees, ratings, specializations, and allow booking appointments. The app is responsive and works on android and ios platform.
 
 ## Getting Started
 
